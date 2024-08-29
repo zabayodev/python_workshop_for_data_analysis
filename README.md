@@ -16,7 +16,7 @@ We will hold two main lectures each week with each session lasting 3 hours. An a
 
 Please note that more detailed information about the event will be available on our event page (once finalized) and will be added to the Google Form for easy reference. We appreciate your patience as we finalize these details.
 # Python for Data Analysis Registration Form
-The registration form and the attached code of conduct can be accessed here [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSe8DN4bqwYBzTm0RLMutn7IQTuu5xwS2qFOZwYQuusijTuOag/viewform?usp=sf_link)
+The registration form and code of conduct [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSe8DN4bqwYBzTm0RLMutn7IQTuu5xwS2qFOZwYQuusijTuOag/viewform?usp=sf_link)
 # Python for Data Analysis Policies and Timetable
 
 ## COVID-19 Health and Safety Policy
