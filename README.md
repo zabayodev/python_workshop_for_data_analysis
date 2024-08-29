@@ -25,4 +25,6 @@ The Code of Conduct can be accessed here [Code of Conduct](https://docs.google.c
 ## Python for Data Analysis Workshop Timetable
 The workshop timetable can be accessed here [Timetable](https://docs.google.com/document/d/1HL1HBKK7xZOTpPzRscD7KnAkpMYpxfsJ/edit?usp=drive_link&ouid=115833354024435537665&rtpof=true&sd=true)
 
+### Note: 
+
 
