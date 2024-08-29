@@ -16,3 +16,9 @@ We will hold two main lectures each week with each session lasting 3 hours. An a
 
 Please note that more detailed information about the event will be available on our event page (once finalized) and will be added to the Google Form for easy reference. We appreciate your patience as we finalize these details.
 
+# Python for Data Analysis Policy and Timetable
+
+## COVID-19 Health and Safety Policy
+## Code of Conduct for Data Analysis Workshop
+## Python for Data Analysis Workshop Timetable
+
