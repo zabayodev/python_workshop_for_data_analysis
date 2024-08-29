@@ -15,7 +15,8 @@ Organizing Commitee
 We will hold two main lectures each week with each session lasting 3 hours. An additional 3 hours per week will be reserved for one-on-one mentorship with our experienced mentors. This will be based on participant requests by ensuring a personalized guidance and support. We are committed to maintaining clear and effective communication, as it is the pillar of any successful event. All participants selected for this cohort will receive formal updates about the class series through both email and WhatsApp group to make sure that none is left behind. We’ll make sure you have all the information you need to make the most of this learning experience.
 
 Please note that more detailed information about the event will be available on our event page (once finalized) and will be added to the Google Form for easy reference. We appreciate your patience as we finalize these details.
-
+# Python for Data Analysis Registration Form
+The registration form and the attached code of conduct can be accessed here [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSe8DN4bqwYBzTm0RLMutn7IQTuu5xwS2qFOZwYQuusijTuOag/viewform?usp=sf_link)
 # Python for Data Analysis Policies and Timetable
 
 ## COVID-19 Health and Safety Policy
