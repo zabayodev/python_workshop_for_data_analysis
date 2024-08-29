@@ -21,5 +21,8 @@ Please note that more detailed information about the event will be available on 
 ## COVID-19 Health and Safety Policy
 The COVID-19 Health and Safety Policy can be accessed here [COVID-19 Health and Safety Policy ](https://docs.google.com/document/d/1Mf-BKadOPqMjU6ZhvVH6-scqZfQCfL1k/edit?usp=drive_link&ouid=115833354024435537665&rtpof=true&sd=true)
 ## Code of Conduct for Data Analysis Workshop
+The Code of Conduct can be accessed here [Code of Conduct](https://docs.google.com/document/d/1mGw6GDTXoBok_-y5_ga-auHmyitDntj_/edit?usp=drive_link&ouid=115833354024435537665&rtpof=true&sd=true)
 ## Python for Data Analysis Workshop Timetable
+The workshop timetable can be accessed here [Timetable](https://docs.google.com/document/d/1HL1HBKK7xZOTpPzRscD7KnAkpMYpxfsJ/edit?usp=drive_link&ouid=115833354024435537665&rtpof=true&sd=true)
+
 
